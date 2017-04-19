@@ -1,0 +1,54 @@
+html{
+    background-color: #ffffff;
+}
+.navigation{
+    background-color: #cef5f8;
+    height: 130px;
+}
+
+.player-one{
+    display: inline-block;
+    font-size: 28px;
+    color: #ffffff;
+    height: 100%;
+    text-align: center;
+    position: relative;
+    top:20px;
+
+}
+
+.player-two{
+    display: inline-block;
+    font-size: 28px;
+    color: #ffffff;
+    height: 100%;
+    text-align: center;
+    position: relative;
+    top:20px;
+
+}
+
+.timeline{
+    display: inline-block;
+    font-size: 28px;
+    color: #cef5f8;
+    height: 100%;
+    background-color: #ffffff;
+    height: 100%;
+    position: relative;
+    right: 10px;
+}
+
+.settings-for-windows{
+    margin-top: 25px;
+    padding: 0;
+    border: 5px solid #cef5f8;
+}
+
+#timer{
+    display: inline-block;
+    font-size: 90px;
+    margin-left: 97px;
+}
+
+
